@@ -104,5 +104,3 @@ open http://localhost:3000/architecture-overview.html
 | **Total** | **127** | **100%** |
 
 ---
-
-*Architecture analysis of Claude Code (Anthropic's official CLI)*
