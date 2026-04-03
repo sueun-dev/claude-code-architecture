@@ -2,7 +2,9 @@
 
 Interactive Mermaid.js visualization of Claude Code's 512K-line TypeScript codebase.
 
-## 8 Systems Overview
+> ⚠️ **Note**: GitHub README shows simplified overview diagrams only. For the **complete interactive visualization** with 81 Detail Panels and full architecture diagrams, please run the HTML file locally (see [Usage](#usage) below).
+
+## 8 Systems Overview (Simplified)
 
 ```mermaid
 flowchart TB
