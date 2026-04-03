@@ -1,6 +1,6 @@
 # Claude Code Architecture Diagrams
 
-Interactive Mermaid.js visualization of Claude Code's 512K-line TypeScript codebase.
+Interactive Mermaid.js visualization of Claude Code's 512K-line codebase.
 
 > ⚠️ **Note**: GitHub README shows simplified overview diagrams only. For the **complete interactive visualization** with 81 Detail Panels and full architecture diagrams, please run the HTML file locally (see [Usage](#usage) below).
 
